@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  background-color: #ccc;
+  /* padding-top: 10px; */
+  padding-left: 5px;
+  padding-right: 5px;
+
+  width: 180px;
+  height: 200px;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+}
+.itemTotal {
+  background-color: #fff;
+  color: gray;
+  flex-shrink: 0;
+  flex-grow: 0;
+  height: 29px;
+  width: 30px;
+  margin-top: 10px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input{
+  margin-left: 5px;
+  margin-top: 10px;
+  flex-shrink: 0;
+  width: 120px;
+  height: 30px;
+}
+.item {
+  background-color: #fff;
+  color: gray;
+  flex-shrink: 0;
+  flex-grow: 0;
+  height: 30px;
+  width: 30px;
+  margin-left: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row2 {
+width: 125px;
+display: flex;
+justify-content: space-between;
+}
+.row2d{
+  margin-left: 10px;
+}
+
+.row3 {
+  width: 125px;
+  display: flex;
+  justify-content: space-between;
+  }
+  .row3d{
+      margin-left: 10px;
+  }
+
+
+  .row4 {
+      width: 125px;
+      display: flex;
+      justify-content: space-between;
+      }
+      .row4d{
+          margin-left: 10px;
+      }
+      .row5 {
+          width: 125px;
+          display: flex;
+          justify-content: space-between;
+          }
+          .row5d{
+              margin-left: 10px;
+          }
+  
