@@ -29,4 +29,5 @@ to know the answer click the equal sign '='
 To convert to roman numeral click the 'C' button you will find it
 in the keypad it is in the left last row column.
 
+to see an image of what the application look like click on the image file!
 and enjoy!!
