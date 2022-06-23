@@ -79,8 +79,6 @@ class App extends React.Component {
         operator: null,
         clear: true
       })
-    }else if(this.state.operator === 'c'){
-
     }
     else {
     this.setState({
