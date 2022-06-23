@@ -27,7 +27,7 @@ class App extends React.Component {
     if(this.state.operator ==null){
     this.setState({
       value1: parseInt(this.state.value1 +""+ e.target.innerText),
-      show: this.state.show +" "+e.target.innerText
+      show: this.state.show +""+e.target.innerText
     });
     }
     else if (this.state.operator !== null && this.state.operator !=='='){
